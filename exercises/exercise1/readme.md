@@ -1,4 +1,4 @@
-# **Importer des données** <a href="../../"> <img src="../../../Assets/Images/mongodb-ar21.svg" alt="PostgreSQL" align="right" height="64px"> </a>
+# **Importer des données** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 en NoSQL, on utilise des fichiers de texte (JSON ou CSV) contenants des noms de champs et des valeurs.  
 Un fichier JSON stock dans une structure hiérarchique.  
 En NoSQL, tout est regroupé dans un fichier JSON ou CSV. Il n’y a pas de relation (jointure) entre les tables.  

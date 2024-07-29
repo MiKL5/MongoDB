@@ -1,4 +1,4 @@
-# **Faire une requête avec jointure avec `$lookup`**
+# **Faire une requête avec jointure avec `$lookup`** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 Mongosh
 ```json
 // Affibler les notes correpondantes aux élèves

@@ -1,4 +1,4 @@
-# **Rechercher dans un tableau**
+# **Rechercher dans un tableau** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 ```sql
 db.technos.find().pretty();
 -- Afficher l'équipe d'Andrw Clark dans le document "team"

@@ -1,4 +1,4 @@
-# **Supprimer une collection**
+# **Supprimer une collection** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 En utilisant la console JavaScript “Mongosh”, il n’y a pas de message prévenant que la bdd sera supprimer.
 ```json
 db.voiture.drop(); -- true

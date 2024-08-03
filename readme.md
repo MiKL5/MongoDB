@@ -22,7 +22,7 @@ ___
 1. [Importer des données](exercises/exercise1)
 2. [Affichier les documents de BDD](exercises/exercise2)
 3. [Limiter les données `LIMIT()`](exercises/exercise3)
-4. [Siéple recherche `FIND()`](exercises/exercise4)
+4. [Simple recherche `FIND()`](exercises/exercise4)
 ## Les requêtes
 5. [Rechercher dans un tableau](exercises/exercise5)
 6. [Ins2rer une ou plusieurs donn2es dqns les docuéents](exercises/exercise6)

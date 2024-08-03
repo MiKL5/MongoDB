@@ -1,4 +1,4 @@
-# **Supprimer une collection et une base de données** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **Supprimer une collection et une base de données** <a href="../../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 Via Mongosh
 ```json
 // Trouver Aznavour avc l'id

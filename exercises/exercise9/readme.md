@@ -1,4 +1,4 @@
-# **Les opérateurs “greater than” `$gt`, “greater than or equal” `$gte`, “less than” `$lt`, “less than or equal” `$lte`** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **Les opérateurs “greater than” `$gt`, “greater than or equal” `$gte`, “less than” `$lt`, “less than or equal” `$lte`** <a href="../../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 ```json
 // Créer la table 'clients'
 db.clients.insertMany( [ {nom:'Thuuillier' , age:18} , {nm:'Dupond' , age:20} , {nom:'Dupont' , age:50} , {nom:'Mary' , age:27} , {nom:'Delassus' , age:25} ] );

@@ -1,4 +1,4 @@
-# **Mettre à jour avec ‘Update’ et ’`$set`’** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **Mettre à jour avec ‘Update’ et ’`$set`’** <a href="../../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 Via Mongosh
 ```json
 // Afficher toute la table "customers"

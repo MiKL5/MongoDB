@@ -1,4 +1,4 @@
-# **L’agrégation avec MongoDB Compass** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **L’agrégation avec MongoDB Compass** <a href="../../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 Dans l’onglet “Aggregations” , “Add Stage”.  
 Stage 1 : `$project`
 ```json

@@ -1,4 +1,4 @@
-# **Limiter les données avec `LIMIT`** <a href="../../"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **Limiter les données avec `LIMIT`** <a href="../../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 ```sql
 -- Aficher les trois premiers enregistrements
 db.table.find().limit(3);

@@ -28,7 +28,7 @@ ___
 6. [Ins2rer une ou plusieurs donn2es dqns les docuéents](exercises/exercise6)
 7. [Suppriéer une collection](exercises/exercise7)
 8. [Insérer plusieurs documents simultanément avec une boucle](exercises/exercise8)   
-## Les opérateurs les plus courants
+## Les opérateurs<!-- les plus courants-->
 9. [`$gt`, `$gte`, `$lt`, `$lte`](exercises/exercise9)
 10. [`$or`, `$and`](exercises/exercise10)
 11. [`$in` , `$nin` , `$all`](exercises/exercise11)
@@ -44,3 +44,10 @@ ___
 19. [L’agrégation avec MongoDB Compass](exercises/exercise19)
 20. [Les jointures avec MongoDB](exercises/exercise20)
 21. [Faire une requête avec jointure avec `$lookup`](exercises/exercise21)
+___
+<h2 align="center"><b>🔗 Sujets connexes</b></h2>
+
+[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/master/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
+[PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
+
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/master/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>

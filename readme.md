@@ -10,7 +10,7 @@ ___
 ___
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
-[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://github.com/MiKL5/TSQL/raw/main/assets/Microsoft_SQL_Server.svg" alt="PostgreSQL" align="left" height="20px"></a>  
+[SQL Server](https://github.com/MiKL5/TSQL)<a href="https://github.com/MiKL5/TSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="SQL Server" align="left" height="20px"></a>  
 [PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="20px"> </a>  
 
 [Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"><img src="https://github.com/MiKL5/PowerBI/raw/main/assets/Power_BI.svg" alt="Power BI" align="left" height="20px"> </a>

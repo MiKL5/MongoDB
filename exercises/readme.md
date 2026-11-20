@@ -1,18 +1,20 @@
 # **MongoDB** <a href="../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
-MongoDB à été crée à New York. Elle offre une licence communautaire (gratuite). Il y a une licence enterprise permettant plus de services.  
-MongoDB est la base de données NoSQL la plus populaire.  
+MongoDB à été crée à New York.<!-- Elle offre une licence communautaire (gratuite). Il y a une licence enterprise permettant plus de services.  
+MongoDB est la base de données NoSQL la plus populaire.  -->
 NoSQL signifie Not Only SQL.  
 
-Il n’y a pas de schéma relationnel entre les tables, il s’agit donc de données non structurées.  
+Il n’y a pas de schéma relationnel entre les tables ; les données ne sont pas structurées.  
+
+<details><summary>+</summary>
 
 Le NoSQL est largement répandu, e.g. Facebook, eBay. D’où la vélocité des pages.  
-Cependant, d’où viennent la fluidité et les performances très proches d’SQL, voire meilleures ?
+Cependant, la fluidité et les performances très proches vient du fait qu'elle est orientée document et enregistre en BSON.  
 
-Il faut savoir que cette base de données est orientée document, stock en BSON.  
+Le `sharding` est une réplication sur un certain nombre de nœuds. La puissance de MongoDB est de bénéficier <!--(e.g. dans un docker) -->de la réplication dynamique d’un certain nombre de nœuds.  
 
-Le `sharding` est une réplication sur un certain nombre de nœuds. La puissance de MongoDB est de bénéficier (e.g. dans un docker) de la réplication dynamique d’un certain nombre de nœuds.  
+Son langage est très riche et n’a rien à voir avec le <!--T--->SQL.
 
-Son langage est très riche et n’a rien à voir avec le T-SQL.  
+</details><br>
 
 Les tables sont appelées collections.
 

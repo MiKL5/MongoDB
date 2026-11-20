@@ -1,14 +1,14 @@
-# **MongoDB** <a href="../"> <img src="https://github.com/MiKL5/BI/blob/master/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
+# **MongoDB** <a href="../"> <img src="https://github.com/MiKL5/BI/blob/main/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
 MongoDB à été crée à New York.<!-- Elle offre une licence communautaire (gratuite). Il y a une licence enterprise permettant plus de services.  
-MongoDB est la base de données NoSQL la plus populaire.  -->
-NoSQL signifie Not Only SQL.  
+MongoDB est la base de données NoSQL la plus populaire.-->
+
+NoSQL signifie Not Only SQL.
 
 Il n’y a pas de schéma relationnel entre les tables ; les données ne sont pas structurées.  
 
 <details><summary>+</summary>
 
-Le NoSQL est largement répandu, e.g. Facebook, eBay. D’où la vélocité des pages.  
-Cependant, la fluidité et les performances très proches vient du fait qu'elle est orientée document et enregistre en BSON.  
+Le NoSQL est largement répandu, e.g. Facebook, eBay. D’où la vélocité des pages. Cependant, la fluidité et les performances très proches vient du fait qu'elle est orientée document. Les enregistrements sont en BSON (Binary Script Object Notation). Un dérivé du JSON.
 
 Le `sharding` est une réplication sur un certain nombre de nœuds. La puissance de MongoDB est de bénéficier <!--(e.g. dans un docker) -->de la réplication dynamique d’un certain nombre de nœuds.  
 
@@ -31,7 +31,7 @@ ___
 7. [Suppriéer une collection](exercises/exercise7)
 8. [Insérer plusieurs documents simultanément avec une boucle](exercises/exercise8)   
 ## Les opérateurs<!-- les plus courants-->
-9. [`$gt`, `$gte`, `$lt`, `$lte`](exercises/exercise9)
+9.  [`$gt`, `$gte`, `$lt`, `$lte`](exercises/exercise9)
 10. [`$or`, `$and`](exercises/exercise10)
 11. [`$in` , `$nin` , `$all`](exercises/exercise11)
 ## Mettre à jour et supprimer un document
@@ -40,7 +40,7 @@ ___
 14. [Le concept Upset](exercises/exercise14)  
 15. [Supprimer une collection et une base de données](exercises/exercise15)
 ## Trier, agréger les données et les jointures
-16.  [Trier les données avec le `sort`](exercises/exercise16)
+16. [Trier les données avec le `sort`](exercises/exercise16)
 17. [`Limit` et `Skip`](exercises/exercise17)
 18. [L’agrégation `$group` et `distinct`](exercises/exercise18)
 19. [L’agrégation avec MongoDB Compass](exercises/exercise19)

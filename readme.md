@@ -1,9 +1,9 @@
 # **MongoDB** <a href="https://github.com/MiKL5/BI/"> <img src="https://github.com/MiKL5/BI/blob/main/assets/mongodb-ar21.svg" alt="MongoDB" align="right" height="64px"> </a>
-MongoDB a été fondée à New York. C’est la base NoSQL la plus populaire, orientée document, stockant les données en BSON.
+MongoDB <!--a été fondée à New York. C’-->est la base NoSQL la plus populaire, orientée document. Les données sont en BSON.
 
-NoSQL signifie “Not Only SQL”, offrant une grande flexibilité sans schéma relationnel fixe.
+NoSQL signifie “Not Only SQL”. Il apporte une grande flexibilité sans schéma relationnel fixe.
 
-Sa fluidité et performances proches ou supérieures à SQL viennent du sharding (partitionnement horizontal) et de la réplication, permettant une scalabilité dynamique sur plusieurs nœuds. Son langage riche, différent de T-SQL, utilise des collections au lieu de tables.
+Sa fluidité et performances proches d'SQL viennent du sharding (partitionnement horizontal) et de la réplication, permettant une scalabilité dynamique sur plusieurs nœuds.<!-- Son langage riche, différent de T-SQL, utilise des collections au lieu de tables.-->
 ___
 # **Projets**
 [Books to MongoDB](https://github.com/MiKL5/Web-scraping/blob/master/projects/b2mongo)
